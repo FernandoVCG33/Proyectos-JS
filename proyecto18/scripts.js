@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", (evento) => {
     let segundos = 0;
     let minutos = 0;
     let time = null;
-    let iniciar = () => {
+    function iniciar () {
         if (!time) {
             time = setInterval(() => {
                 segundos++;
