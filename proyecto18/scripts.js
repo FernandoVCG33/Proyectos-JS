@@ -8,9 +8,9 @@ window.addEventListener("DOMContentLoaded", (evento) => {
     //funciones
     let segundos = 0;
     let minutos = 0;
-    let time = null;
+    let time = true;
     function iniciar () {
-        if (!time) {
+        if (time) {
             time = setInterval(() => {
                 segundos++;
                 if (segundos <= 9) {
@@ -40,7 +40,7 @@ window.addEventListener("DOMContentLoaded", (evento) => {
     botonParar.addEventListener("click", () => {
         if (time){
             clearInterval(time);
-            time = null;
+            time = true;
         }
     });
 
