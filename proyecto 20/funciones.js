@@ -9,7 +9,10 @@ window.addEventListener("DOMContentLoaded", (event) => {
     let year = fechaActual.getFullYear();
     let mes = fechaActual.getMonth();
     let dia = fechaActual.getDay();
+    
 
+    if (dia < 10)dia=`0${dia}`;
+    if (mes<10)mes=`0${mes}`;
     let hora1 = fechaActual.getHours();
     let minutos = fechaActual.getMinutes();
     let segundos = fechaActual.getSeconds();
@@ -22,8 +25,5 @@ window.addEventListener("DOMContentLoaded", (event) => {
         if (segundos==60){
             segundos=0;
         };
-
     }, 1000);
-
-
 });
