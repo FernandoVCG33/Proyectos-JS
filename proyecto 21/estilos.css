@@ -20,5 +20,20 @@ body{
     align-items: center;
 }
 .layaout__main{
-    
+    max-width: 40rem;
+}
+.inventario{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+.inventario__caja{
+    background-color: aqua;
+    width: 8rem;
+    height: 8rem;
+    border: 0.2rem solid black;
+    border-radius: 0.5rem ;
+    cursor: pointer;
 }
