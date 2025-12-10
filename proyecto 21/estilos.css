@@ -11,3 +11,14 @@ body{
     font-size: 1.6rem;
     background-color: #E8effA;
 }
+.layaout{
+    width: 100%;
+    min-height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layaout__main{
+    
+}
