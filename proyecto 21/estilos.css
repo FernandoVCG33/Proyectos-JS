@@ -16,6 +16,7 @@ body{
     min-height: 100%;
     position: absolute;
     display: flex;
+    flex-flow: column ;
     justify-content: center;
     align-items: center;
 }
