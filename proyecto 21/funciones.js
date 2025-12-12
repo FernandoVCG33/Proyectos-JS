@@ -15,10 +15,10 @@ window.addEventListener('DOMContentLoaded', (e) => {
     //Establecer cada hueco de la estanteria como un hueco 
     //Donde puedo soltar un elemento
     estanteriaDom.forEach((estanteria, i) => {
-        estanteria.addEventListener("dragover", e => {
+        estanteria.addEventListener("dragover",function(e)  {
             e.preventDefault();
         });
-        estanteria.addEventListener("drop", e => {
+        estanteria.addEventListener("drop", function(e)  {
             e.preventDefault();
             let cajaId = e.dataTransfer.getData("id");
             console.log(`caja id  ${cajaId}`);
