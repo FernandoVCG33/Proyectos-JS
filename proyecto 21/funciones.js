@@ -12,4 +12,9 @@ window.addEventListener('DOMContentLoaded',  (e)=>{
             e.dataTransfer.setData("id", e.target.id);
         });
     })
+    //Establecer cada hueco de la estanteria como un hueco 
+    //Donde puedo soltar un elemento
+    estanteriaDom.forEach((estanteria,i)=>{
+        as
+    })
 });
