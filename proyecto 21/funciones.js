@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded',  (e)=>{
         caja.setAttribute("id", "caja" + i);
         caja.addEventListener("dragstart", ()=>{
             e.dataTransfer.setData("id", e.target.id);
-        });
+        })
     })
     //Establecer cada hueco de la estanteria como un hueco 
     //Donde puedo soltar un elemento
