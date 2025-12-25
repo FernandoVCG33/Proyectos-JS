@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    font-family: Arial;
+    font-size: 1.6rem;
+    background-color: #f4f4f4;
+}
+main{
+    width: 30%;
+    margin: auto;
+    margin-top: 5rem;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+}
+input{
+    padding: 0.8rem 1.6rem;
+    border-radius: 0.5rem;
+    width: 55%;
+    transition: all 0.3s ease-in;
+}
+input:focus{
+    outline: none;
+    border: 2px solid #333;
+}
+.text_seacrh{
+    background-color: #6da8ff;
+}
