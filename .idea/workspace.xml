@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29717d87-8921-446e-8642-9491330456e3" name="Changes" comment="Agregar archivo estilos.css y vincularlo en index.html">
+      <change afterPath="$PROJECT_DIR$/proyecto 23/funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto 23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto 23/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FernandoVCG33&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:FernandoVCG33/Proyectos-JS.git&quot;,
+    &quot;accountId&quot;: &quot;6aa484bd-d69d-41c3-9d8e-ad65006d0896&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37MGC4QOBfJpaybv94RUAMzYkcv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.29346.143" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29717d87-8921-446e-8642-9491330456e3" name="Changes" comment="" />
+      <created>1766705396809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766705396809</updated>
+      <workItem from="1766705399037" duration="4740000" />
+      <workItem from="1767570014868" duration="334000" />
+    </task>
+    <task id="LOCAL-00001" summary="agregado el proyecto 22 con archivos HTML, CSS y JavaScript">
+      <option name="closed" value="true" />
+      <created>1766706131476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706131476</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mejoras en el estilo del input y actualización del texto de búsqueda en index.html">
+      <option name="closed" value="true" />
+      <created>1766706498171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706498171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="agregar funcionalidad de búsqueda en el texto principal al presionar Enter">
+      <option name="closed" value="true" />
+      <created>1766707510151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766707510151</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cambios mas">
+      <option name="closed" value="true" />
+      <created>1766707914027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766707914027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Borar idea de nuevo">
+      <option name="closed" value="true" />
+      <created>1766708031531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766708031531</updated>
+    </task>
+    <task id="LOCAL-00006" summary="agregar enlace a Proyecto 22 en index.html">
+      <option name="closed" value="true" />
+      <created>1766716452475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766716452475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Agregar Proyecto 23 a index.html y crear archivos de configuración del proyecto">
+      <option name="closed" value="true" />
+      <created>1767570119713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767570119713</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Agregar archivo estilos.css y vincularlo en index.html">
+      <option name="closed" value="true" />
+      <created>1767570276213</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767570276213</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="agregado el proyecto 22 con archivos HTML, CSS y JavaScript" />
+    <MESSAGE value="mejoras en el estilo del input y actualización del texto de búsqueda en index.html" />
+    <MESSAGE value="agregar funcionalidad de búsqueda en el texto principal al presionar Enter" />
+    <MESSAGE value="Cambios mas" />
+    <MESSAGE value="Borar idea de nuevo" />
+    <MESSAGE value="agregar enlace a Proyecto 22 en index.html" />
+    <MESSAGE value="Agregar Proyecto 23 a index.html y crear archivos de configuración del proyecto" />
+    <MESSAGE value="Agregar archivo estilos.css y vincularlo en index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar archivo estilos.css y vincularlo en index.html" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
