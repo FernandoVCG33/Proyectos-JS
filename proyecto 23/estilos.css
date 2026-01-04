@@ -10,3 +10,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.6rem;
 }
+main{
+    width: 100%;
+    display: flex;
+    flex-flow: column ;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+input{
+    width: 35%;
+}
