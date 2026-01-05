@@ -43,6 +43,7 @@ input:focus{
     flex-basis: 10%;
 }
 .check, .wrong {
+    display: flex;
     width: 3rem;  /* Cambia el ancho */
     height: 3rem;
     position: absolute;
