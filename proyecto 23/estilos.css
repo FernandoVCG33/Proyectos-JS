@@ -19,6 +19,8 @@ main{
     gap: 1.5rem;
 }
 input{
+    display: block;
+    font-weight: 500;
     width: 35%;
     padding: 0.8rem 1.6rem;
     transition: all 0.3s ease-in;
@@ -28,4 +30,11 @@ input{
 }
 input:focus{
     border: 0.1rem solid #0b58ba;
+}
+.main_icons{
+    flex-basis: 10%;
+}
+.main_icons:first-child{
+    color: green;
+    font-size: 3rem;
 }
