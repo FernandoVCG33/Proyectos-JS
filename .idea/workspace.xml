@@ -7,7 +7,6 @@
     <list default="true" id="29717d87-8921-446e-8642-9491330456e3" name="Changes" comment="Agregar estilos de entrada y ajustes en estilos.css e index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proyecto 23/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto 23/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proyecto 23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto 23/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766705396809</updated>
       <workItem from="1766705399037" duration="4740000" />
-      <workItem from="1767570014868" duration="3180000" />
+      <workItem from="1767570014868" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="agregado el proyecto 22 con archivos HTML, CSS y JavaScript">
       <option name="closed" value="true" />
@@ -202,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767573103952</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Agregar estilos de entrada y ajustes en estilos.css e index.html">
+      <option name="closed" value="true" />
+      <created>1767573626435</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1767573626435</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Agregar estilos de entrada y ajustes en estilos.css e index.html">
+      <option name="closed" value="true" />
+      <created>1767574087929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1767574087929</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -11,7 +11,7 @@ body{
     font-size: 1.6rem;
 }
 main{
-    position: relative;
+    margin-top: 1rem;
     width: 100%;
     display: flex;
     flex-flow: column ;
@@ -20,7 +20,7 @@ main{
     gap: 1.5rem;
 }
 .validador{
-    background-color: red;
+
     width: 100%;
     display: flex;
     justify-content: center;
@@ -43,16 +43,20 @@ input:focus{
     flex-basis: 10%;
 }
 .check, .wrong {
-    width: 4rem;  /* Cambia el ancho */
-    height: 4rem;
+    width: 3rem;  /* Cambia el ancho */
+    height: 3rem;
     position: absolute;
 
 }
 .check{
     stroke: green;
-    margin-left: calc(50% - 30rem)  ;
+    margin-left: calc(35% - 4rem)  ;
+
 }
 .wrong{
     stroke: red;
-    margin-left: 31rem;
+    margin-left: calc(35% - 4rem)  ;
+}
+.ocultar{
+    display: none;
 }
