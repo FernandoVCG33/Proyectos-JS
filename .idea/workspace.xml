@@ -88,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766705396809</updated>
       <workItem from="1766705399037" duration="4740000" />
-      <workItem from="1767570014868" duration="2574000" />
+      <workItem from="1767570014868" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="agregado el proyecto 22 con archivos HTML, CSS y JavaScript">
       <option name="closed" value="true" />
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767571503031</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Agregar estilos de entrada y ajustes en estilos.css e index.html">
+      <option name="closed" value="true" />
+      <created>1767573103952</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767573103952</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

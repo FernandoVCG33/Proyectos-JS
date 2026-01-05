@@ -11,12 +11,19 @@ body{
     font-size: 1.6rem;
 }
 main{
+    position: relative;
     width: 100%;
     display: flex;
     flex-flow: column ;
     justify-content: center;
     align-items: center;
     gap: 1.5rem;
+}
+.validador{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 input{
     display: block;
@@ -34,13 +41,15 @@ input:focus{
 .main_icons{
     flex-basis: 10%;
 }
-.check {
+.check, .wrong {
     width: 4rem;  /* Cambia el ancho */
     height: 4rem;
+    position: absolute;
+
+}
+.check{
     stroke: green;
 }
 .wrong{
-    width: 4rem;
-    height: 4rem;
     stroke: red;
 }
