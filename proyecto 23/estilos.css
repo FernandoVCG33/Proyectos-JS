@@ -34,7 +34,13 @@ input:focus{
 .main_icons{
     flex-basis: 10%;
 }
-.main_icons:first-child{
-    color: green;
-    font-size: 3rem;
+.check {
+    width: 4rem;  /* Cambia el ancho */
+    height: 4rem;
+    stroke: green;
+}
+.wrong{
+    width: 4rem;
+    height: 4rem;
+    stroke: red;
 }

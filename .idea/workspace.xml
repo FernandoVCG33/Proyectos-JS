@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29717d87-8921-446e-8642-9491330456e3" name="Changes" comment="Agregar estilos de entrada en estilos.css" />
+    <list default="true" id="29717d87-8921-446e-8642-9491330456e3" name="Changes" comment="Agregar estilos de entrada y ajustes en estilos.css e index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto 23/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto 23/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyecto 23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/proyecto 23/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766705396809</updated>
       <workItem from="1766705399037" duration="4740000" />
-      <workItem from="1767570014868" duration="1245000" />
+      <workItem from="1767570014868" duration="2574000" />
     </task>
     <task id="LOCAL-00001" summary="agregado el proyecto 22 con archivos HTML, CSS y JavaScript">
       <option name="closed" value="true" />
@@ -182,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767571262250</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Agregar estilos de entrada y ajustes en estilos.css e index.html">
+      <option name="closed" value="true" />
+      <created>1767571503031</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767571503031</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +223,8 @@
     <MESSAGE value="Agregar Proyecto 23 a index.html y crear archivos de configuración del proyecto" />
     <MESSAGE value="Agregar archivo estilos.css y vincularlo en index.html" />
     <MESSAGE value="Agregar estilos de entrada en estilos.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregar estilos de entrada en estilos.css" />
+    <MESSAGE value="Agregar estilos de entrada y ajustes en estilos.css e index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar estilos de entrada y ajustes en estilos.css e index.html" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
