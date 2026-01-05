@@ -1,9 +1,12 @@
 window.addEventListener("DOMContentLoaded", () => {
     console.log('Dom Cargado al 120%');
     let inputS=document.getElementById('emails');
-    inputS.addEventListener('keydown', ()=>{
+    inputS.addEventListener('keyup', ()=>{
         let inputEmail=inputS.value;
-        console.log(inputEmail);
+        let parter= /@.*\./ ;
+        if(inputEmail.trim() !=""){
+
+        }
 
 
     });
