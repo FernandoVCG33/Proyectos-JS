@@ -22,9 +22,10 @@ input{
     width: 35%;
     padding: 0.8rem 1.6rem;
     transition: all 0.3s ease-in;
-    border: 1px solid #6da8ff;
+    border: 0.1rem solid #6da8ff;
     border-radius: 1rem;
+    outline: none;
 }
 input:focus{
-
+    border: 0.1rem solid #0b58ba;
 }
