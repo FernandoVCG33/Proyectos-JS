@@ -1,12 +1,12 @@
-# 🚀 Proyectos JavaScript
+# Proyectos JavaScript
 
 Este repositorio almacena una colección de proyectos prácticos enfocados en el aprendizaje y dominio de **JavaScript**, acompañado de **HTML5** y **CSS3**.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🎯 Objetivo
+## Objetivo
 
 El propósito principal de este repositorio es:
 - 📚 Aprender mediante la práctica con proyectos pequeños y medianos.
