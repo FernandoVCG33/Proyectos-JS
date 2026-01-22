@@ -4,7 +4,10 @@ window.addEventListener('DOMContentLoaded', () => {
 
     icon.addEventListener('click', () => {
         if(input.type === 'password'  && input.value.trim() === '' ) {
-
+            input.type = 'text';
+        }
+        else{
+            input.type = 'password';
         }
     });
 });
