@@ -48,4 +48,9 @@ input:focus{
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    margin-right: 1rem;
+}
+svg:active{
+    color: #333333;
+    stroke: #333333;
 }
