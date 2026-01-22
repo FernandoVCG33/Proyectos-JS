@@ -10,3 +10,27 @@ body{
     font-size: 1.6rem;
     font-family: Arial, Helvetica, sans-serif;
 }
+form{
+    width: 50%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 1rem;
+    font-size: 1.6rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+    transition: all 0.3s ease-in-out;
+}
+input:focus{
+    outline: none;
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
