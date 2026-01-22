@@ -1,3 +1,8 @@
 window.addEventListener('DOMContentLoaded', () => {
-    alert('hola mundo');
+    let input = document.getElementById('miInput');
+    let icon = document.querySelector('svg');
+
+    icon.addEventListener('click', () => {
+
+    });
 });
