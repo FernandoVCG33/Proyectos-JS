@@ -22,15 +22,21 @@ form{
     align-items: center;
 }
 input{
+    width: 35%;
     padding: 1rem;
     font-size: 1.6rem;
     border: 1px solid #ccc;
     border-radius: 0.5rem;
     margin-right: 1rem;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 input:focus{
     outline: none;
     border-color: #007BFF;
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+.form_eye{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
