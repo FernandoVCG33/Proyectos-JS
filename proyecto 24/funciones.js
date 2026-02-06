@@ -5,6 +5,7 @@ window.addEventListener('DOMContentLoaded', () => {
     icon.addEventListener('click', () => {
         if(input.type === 'password' && input.value.trim() !== '' ) {
             input.type = 'text';
+            console.log('El campo de contraseña se ha mostrado');
         }
         else{
             input.type = 'password';
