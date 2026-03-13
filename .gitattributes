@@ -1,0 +1,11 @@
+# 1. Ocultar archivos HTML y CSS de las estadísticas
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
+# 2. (Opcional) Si tienes otras extensiones que quieres ocultar
+*.json linguist-detectable=false
+*.md linguist-detectable=false
+
+# 3. (Opcional) Ocultar todo lo que esté dentro de una carpeta específica (ej. assets)
+assets/* linguist-detectable=false
+public/* linguist-detectable=false
