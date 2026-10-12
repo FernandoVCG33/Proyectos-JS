@@ -33,6 +33,7 @@ window.addEventListener("DOMContentLoaded", (evento) => {
             }, 1000);
         }
     };
+
     //Eventos de los botones
     botonIniciar.addEventListener("click", () => {
         iniciar();
